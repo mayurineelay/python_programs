@@ -1,0 +1,15 @@
+nitin
+age=>5
+name=>'nitin neelay'
+endrec.
+mayuri
+salary=>50000
+age=>1
+name=>'mayuri gadewar'
+endrec.
+anay
+salary=>100000
+age=>2
+name=>'anay neelay'
+endrec.
+enddb.
